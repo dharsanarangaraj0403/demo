@@ -18,3 +18,7 @@ i really like her motivational speech a lot. Even i like her passion in her work
 He is a very soft character and all the childern will like her a lot.
 he had got many award for his achivements.
 Due to this  reason he is my role model.
+#info
+your teaching is good sir.The way your are teaching is understandable.
+i need your help for learning coding sir.
+you explain everything very clearly.
