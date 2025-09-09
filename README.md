@@ -11,3 +11,10 @@ my father is experienced in his work for more than 15 years.
 My mother name is Sudha . she is an house wife.
 iam the only daughter in my house.
 we all are staying in coimbatore. 
+#Role model
+my role model id Dr A.P.J Abdul kalam
+iam very inspired of him.
+i really like her motivational speech a lot. Even i like her passion in her work .
+He is a very soft character and all the childern will like her a lot.
+he had got many award for his achivements.
+Due to this  reason he is my role model.
