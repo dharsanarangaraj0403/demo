@@ -22,3 +22,14 @@ Due to this  reason he is my role model.
 your teaching is good sir.The way your are teaching is understandable.
 i need your help for learning coding sir.
 you explain everything very clearly.
+#####################################################################################################
+
+Dharsana,
+
+I am very happy to know about you. Since you already have some background in Python and have chosen CSE with genuine interest, you are on the right path. With consistent practice and the right guidance, you will definitely become confident in coding.
+
+I am also glad to hear your positive feedback about my teaching. Thank you for trusting me — I will surely support you step by step in learning coding. Whenever you have doubts, don’t hesitate to ask; I will explain until you feel clear and confident.
+
+Stay motivated, keep practising regularly, and remember that every expert was once a beginner. I am confident that with your interest and hard work, you will achieve your goals and make your parents proud.
+
+All the very best for your journey ahead!
